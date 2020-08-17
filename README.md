@@ -6,9 +6,8 @@
 
 #  <img src="https://scicrop.com/images/new-site/logo-scicrop.png" style="zoom:150%;" />
 
-## Processo seletivo para Estágio em Data Science 
+## Projeto Data Science 
 
-Este exercício não tem o foco de analisar a acurácia dos modelos, mas sim a forma como você pensou para resolvê-lo. Por conta disso, faça o exercício organizado e com comentários.
 
 
 
@@ -47,4 +46,3 @@ Este exercício não tem o foco de analisar a acurácia dos modelos, mas sim a f
 | Temporada                | Temporada Climática (1,2,3)                                  |
 | dano_na_plantacao        | Variável de Predição - Dano no Cultivo (0=Sem Danos, 1=Danos causados por outros motivos, 2=Danos gerados pelos pesticidas) |
 
-SciCrop®
